@@ -3,7 +3,7 @@ Simple news application on iOS that allows users to browse through news articles
 
 ## Screen Shots
 
-![news feed](https://github.com/jcontreras1126/SNews/blob/master/ScreenShots/news_feed.PNG = 360x640)
+<img src="https://github.com/jcontreras1126/SNews/blob/master/ScreenShots/news_feed.PNG" width="360" height="640" />
 
 ![article view](https://github.com/jcontreras1126/SNews/blob/master/ScreenShots/article_view.PNG =360x640)
 
