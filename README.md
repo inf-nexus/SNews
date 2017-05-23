@@ -1,12 +1,12 @@
 # SNews
 Simple news application on iOS that allows users to browse through news articles from multiple sources as well as saving and deleting articles to read for later after exiting app. Uses News API to grab articles from multiple news sources.
 
-##Screen Shots
+## Screen Shots
 
-![news feed](https://github.com/jcontreras1126/SNews/tree/master/ScreenShots/news_feed.png)
+![news feed](https://github.com/jcontreras1126/SNews/blob/master/ScreenShots/news_feed.PNG)
 
-![news feed](https://github.com/jcontreras1126/SNews/tree/master/ScreenShots/article_view.png)
+![article view](https://github.com/jcontreras1126/SNews/blob/master/ScreenShots/article_view.PNG)
 
-![news feed](https://github.com/jcontreras1126/SNews/tree/master/ScreenShots/saved_stories.png)
+![saved stories](https://github.com/jcontreras1126/SNews/blob/master/ScreenShots/saved_stories.PNG)
 
-![news feed](https://github.com/jcontreras1126/SNews/tree/master/ScreenShots/saved_stories_del.png)
+![saved stories del](https://github.com/jcontreras1126/SNews/blob/master/ScreenShots/saved_stories_del.PNG)
